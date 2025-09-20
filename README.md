@@ -139,11 +139,11 @@ Here are some highlights from my work:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chadalarabi69-ai&show_icons=true&theme=radical&token=MYTOKEN" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=larabinada752-netizen&show_icons=true&theme=radical&token=MYTOKEN" alt="GitHub Stats" />
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadalarabi69-ai&layout=compact&theme=radical&token=MYTOKEN" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabinada752-netizen&layout=compact&theme=radical&token=MYTOKEN" alt="Top Languages" />
 </div>
 
 
