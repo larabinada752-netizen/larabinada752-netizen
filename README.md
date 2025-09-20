@@ -1,13 +1,13 @@
 ![banner](banner2.png)
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chada-larabi)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/chadalarabi69-ai)
-[![Email](https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:chadalarabi69@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-larabi)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/larabinada752-netizen)
+[![Email](https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:larabinada752@gmail.com)
 
 </div>
 
-# Hey there! 👋 I'm Chada Larabi
+# Hey there! 👋 I'm Nada Larabi
 
 <div align="center">
   <!-- Banner -->
